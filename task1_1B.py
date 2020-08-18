@@ -35,4 +35,4 @@ Here
     space complexity is based on length of the string + int variables
     
     ==> n + 24*c
-        O(n) is the time complexity """
+        O(n) is the space complexity """
